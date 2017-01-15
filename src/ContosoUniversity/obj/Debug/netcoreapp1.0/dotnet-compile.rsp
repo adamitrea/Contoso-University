@@ -104,8 +104,8 @@
 --reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.Globalization.CultureInfoCache\1.0.0\lib\netstandard1.1\Microsoft.Extensions.Globalization.CultureInfoCache.dll
 --reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.Localization\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Localization.dll
 --reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.Localization.Abstractions\1.0.0\lib\netstandard1.0\Microsoft.Extensions.Localization.Abstractions.dll
---reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.Logging\1.0.0\lib\netstandard1.1\Microsoft.Extensions.Logging.dll
---reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.Logging.Abstractions\1.0.0\lib\netstandard1.1\Microsoft.Extensions.Logging.Abstractions.dll
+--reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.Logging\1.1.0\lib\netstandard1.1\Microsoft.Extensions.Logging.dll
+--reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.Logging.Abstractions\1.1.0\lib\netstandard1.1\Microsoft.Extensions.Logging.Abstractions.dll
 --reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.Logging.Console\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Logging.Console.dll
 --reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.Logging.Debug\1.0.0\lib\netstandard1.3\Microsoft.Extensions.Logging.Debug.dll
 --reference:C:\Users\ADA\.nuget\packages\Microsoft.Extensions.ObjectPool\1.0.0\lib\netstandard1.3\Microsoft.Extensions.ObjectPool.dll
@@ -236,6 +236,7 @@ D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Startup.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Controllers\AccountController.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Controllers\HomeController.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Controllers\ManageController.cs
+D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Controllers\StudentsController.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Data\ApplicationDbContext.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Data\DbInitializer.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Data\SchoolContext.cs
@@ -245,6 +246,7 @@ D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Data\Migrat
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\ApplicationUser.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\Course.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\Enrollment.cs
+D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\PaginatedList.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\Student.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\AccountViewModels\ExternalLoginConfirmationViewModel.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\AccountViewModels\ForgotPasswordViewModel.cs
@@ -262,6 +264,7 @@ D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\Mana
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\ManageViewModels\RemoveLoginViewModel.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\ManageViewModels\SetPasswordViewModel.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\ManageViewModels\VerifyPhoneNumberViewModel.cs
+D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Models\SchoolViewModels\EnrollmentDateGroup.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Services\IEmailSender.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Services\ISmsSender.cs
 D:\Informatica\visual studio\ContosoUniversity\src\ContosoUniversity\Services\MessageServices.cs

@@ -1,4 +1,4 @@
-﻿{
+{
   "userSecretsId": "aspnet-ContosoUniversity-8816a58b-5bdd-4bd2-923a-bfc3fe008088",
 
   "dependencies": {
@@ -29,7 +29,7 @@
     "Microsoft.Extensions.Configuration.EnvironmentVariables": "1.0.0",
     "Microsoft.Extensions.Configuration.Json": "1.0.0",
     "Microsoft.Extensions.Configuration.UserSecrets": "1.0.0",
-    "Microsoft.Extensions.Logging": "1.0.0",
+    "Microsoft.Extensions.Logging": "1.1.0",
     "Microsoft.Extensions.Logging.Console": "1.0.0",
     "Microsoft.Extensions.Logging.Debug": "1.0.0",
     "Microsoft.Extensions.Options.ConfigurationExtensions": "1.0.0",
